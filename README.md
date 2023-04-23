@@ -7,17 +7,12 @@
 
 - 🔭 I’m currently working on **MERN Stack and Cloud Computing**
 
-- 🎥 I create coding tutorial videos on YoutTube at [https://youtube.com/c/piyushgarg1](https://youtube.com/c/piyushgarg1)
-
 - 🌱 I’m currently learning **Amazon Web Services**
 
-- 👨‍💻 All of my projects are available at [https://piyushgarg.dev](https://piyushgarg.dev)
 
-- 📝 I regularly write articles on [https://piyushgarg.dev](https://piyushgarg.dev)
+- 💬 Ask me about **Node.js, React, MySQL, MongoDB Etc.**
 
-- 💬 Ask me about **Node.js, React, Postgresql, MongoDB Etc.**
-
-- 📫 How to reach me **piyushgarg.dev**
+- 📫 How to reach me **mdarifulislamroni.com**
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
