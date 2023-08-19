@@ -4,10 +4,10 @@
 
 - 🔭 I’m currently working on **MERN Stack and Cloud Computing**
 
-- 🌱 I’m currently learning **Amazon Web Services**
+- 🌱 I’m currently working **Amazon Web Services**
 
 
-- 💬 Ask me about **Node.js, React, MySQL, MongoDB Etc.**
+- 💬 Ask me about ** Node.js, React, Next.js, MySQL, MongoDB, AWS, Prisma, Etc. **
 
 - 📫 How to reach me **mdarifulislamroni.com**
 
